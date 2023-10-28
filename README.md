@@ -30,3 +30,5 @@
   + Kemudian melakukan operasi penjumlahan pada nilai a dan b, dan mencetak hasilnya menggunakan format string.
   + Setelah itu melakukan operasi pembagian pada nilai a dan b, dan mencetak hasilnya menggunakan format string.
     
+# Latihan 3 #
+
