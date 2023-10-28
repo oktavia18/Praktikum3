@@ -48,3 +48,9 @@
 ![alt text](https://github.com/oktavia18/praktikum3/blob/main/ss/Screenshot%20luas%20lingkaran.png?raw=true)
 
 * Berikut adalah langkah-langkah dari kode tersebut:
+  + Pertama program meminta pengguna untuk memasukkan jari-jari lingkaran menggunakan fungsi input().
+  + Selanjutnya menghitung luas lingkaran dengan menggunakan rumus pi * r * r, di mana pi adalah konstanta matematika dan r adalah jari-jari 
+    lingkaran yang dimasukkan oleh pengguna. Program menggunakan nilai 22/7 sebagai nilai pi.
+  + Kemudian menghitung keliling lingkaran dengan menggunakan rumus 2 * pi * r, di mana pi adalah konstanta matematika dan r adalah jari-jari 
+    lingkaran yang dimasukkan oleh pengguna. Program menggunakan nilai 22/7 sebagai nilai pi.
+  + Setelah itu mencetak luas dan keliling lingkaran menggunakan fungsi print().    
