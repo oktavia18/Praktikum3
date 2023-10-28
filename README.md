@@ -32,3 +32,19 @@
     
 # Latihan 3 #
 
+![alt text](https://github.com/oktavia18/praktikum3/blob/main/ss/Screenshot%20belahketupat.png?raw=true)
+![alt text](https://github.com/oktavia18/praktikum3/blob/main/ss/ss%20belah%20ketupat.png?raw=true)
+
+* Berikut adalah langkah-langkah dari kode tersebut :
+  + Langkah awal mencetak judul program dan garis pemisah menggunakan fungsi print()
+  + Selanjutnya meminta pengguna untuk memasukkan lebar belah ketupat menggunakan fungsi input()
+  + Kemudian melakukan loop for untuk mencetak setengah bagian atas dari belah ketupat. Loop ini mencetak spasi sebanyak lebar_belah_ketupat - i diikuti dengan bintang 
+    sebanyak i + 1 pada setiap baris. 
+  + Setelah itu melakukan loop for untuk mencetak setengah bagian bawah dari belah ketupat. Loop ini mencetak spasi sebanyak i + 1 diikuti dengan bintang sebanyak 
+    lebar_belah_ketupat - i pada setiap baris  
+
+# Flowchart #
+
+![alt text](https://github.com/oktavia18/praktikum3/blob/main/ss/Screenshot%20luas%20lingkaran.png?raw=true)
+
+* Berikut adalah langkah-langkah dari kode tersebut:
