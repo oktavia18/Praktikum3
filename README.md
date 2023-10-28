@@ -1,4 +1,4 @@
-# Latiahn 1 #
+# Latihan 1 #
 
 ![alt text](https://github.com/oktavia18/praktikum3/blob/main/ss/Screenshot%20lthn1.png?raw=true)
 ![alt text](https://github.com/oktavia18/praktikum3/blob/main/ss/ss%20lajutan%20latihan%201.png?raw=true)
